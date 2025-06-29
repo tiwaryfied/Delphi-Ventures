@@ -113,6 +113,10 @@ graph TB
 
 ---
 
+##Running the Backtester(with Docker)
+![image](https://github.com/user-attachments/assets/db55f6ce-865a-456e-9408-f42bfe76f045)
+---
+
 ## Quick Start
 
 ### Prerequisites
