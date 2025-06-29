@@ -1,11 +1,8 @@
-# 🧠 AI Hedge Fund Protocol
+# 🧠 Delphi Ventures
 ### *Revolutionizing DeFi with Collective Intelligence Trading*
 
 <div align="center">
 
-![AI Hedge Fund Banner](https://via.placeholder.com/800x200/1a1a2e/16213e?text=AI+Hedge+Fund+Protocol)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Solidity](https://img.shields.io/badge/Solidity-%5E0.8.0-blue)](https://docs.soliditylang.org/)
 [![BlockDAG](https://img.shields.io/badge/Built%20on-BlockDAG-purple)](https://blockdag.network/)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-brightgreen)](https://github.com)
@@ -13,7 +10,7 @@
 
 *The world's first decentralized AI hedge fund protocol featuring multi-agent trading intelligence*
 
-[🚀 Live Demo](#) • [📖 Documentation](#) • [🎯 Roadmap](#roadmap) • [👥 Team](#team)
+[🚀 Live Demo](#) • [📖 Documentation](#)
 
 </div>
 
