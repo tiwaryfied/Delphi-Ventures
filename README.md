@@ -1,4 +1,4 @@
-# 🧠 Delphi Ventures
+#  Delphi Ventures
 ### *Revolutionizing DeFi with Collective Intelligence Trading*
 
 <div align="center">
@@ -16,26 +16,26 @@
 
 ---
 
-## 🌟 What is AI Hedge Fund Protocol?
+##  What is AI Hedge Fund Protocol?
 
 **AI Hedge Fund Protocol** introduces **Collective Intelligence Trading (CIT)** - a revolutionary paradigm where multiple AI agents collaborate, compete, and evolve their strategies in real-time on the blockchain. We're democratizing access to sophisticated trading strategies that were previously exclusive to high-net-worth individuals.
 
-### 🎯 The Problem We Solve
+###  The Problem We Solve
 
-- **🏛️ Centralized Access**: Traditional hedge funds only serve high-net-worth individuals
-- **🔒 Lack of Transparency**: Black-box decision making with no visibility
-- **💰 High Barriers**: Substantial minimum investments and fees
-- **🤖 No AI Integration**: Missing real-time AI capabilities for retail investors
+- **Centralized Access**: Traditional hedge funds only serve high-net-worth individuals
+- **Lack of Transparency**: Black-box decision making with no visibility
+- **High Barriers**: Substantial minimum investments and fees
+- **No AI Integration**: Missing real-time AI capabilities for retail investors
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Multi-Agent AI Ecosystem
+### Multi-Agent AI Ecosystem
 - **Momentum Hunter**: Trend analysis & breakout detection
 - **Sentiment Sage**: News & social media analysis
 - **Risk Guardian**: Portfolio protection & volatility management
@@ -58,7 +58,7 @@
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```mermaid
 graph TB
@@ -84,7 +84,7 @@ graph TB
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -108,7 +108,7 @@ graph TB
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js v16+ 
@@ -140,7 +140,7 @@ npx hardhat test
 npm run dev
 ```
 
-### 🔧 Configuration
+### Configuration
 
 ```javascript
 // config/default.js
@@ -158,44 +158,44 @@ module.exports = {
 
 ---
 
-## 💡 How It Works
+## How It Works
 
-### 1. 🔐 Connect & Profile
+### 1. Connect & Profile
 Connect your wallet and complete AI-powered risk profiling to create your unique "Investment DNA"
 
-### 2. 🤖 Choose AI Agents
+### 2. Choose AI Agents
 Select from specialized AI agents or let our system auto-optimize your agent portfolio
 
-### 3. 📊 Monitor in Real-Time
+### 3. Monitor in Real-Time
 Watch your AI agents work through immersive 3D visualization dashboards
 
-### 4. 💰 Earn & Optimize
+### 4. Earn & Optimize
 AI automatically rebalances your portfolio and optimizes returns across multiple protocols
 
 ---
 
-## 🎮 User Flow
+## User Flow
 
 ```
-🔗 Biometric Wallet Connection
+Biometric Wallet Connection
     ↓
-🧬 AI Risk Profiling (Investment DNA)
+AI Risk Profiling (Investment DNA)
     ↓
-🛒 Strategy Marketplace
+Strategy Marketplace
     ↓
-💵 Fractional Investment (from $1)
+Fractional Investment (from $1)
     ↓
-🤖 AI Agent Selection
+AI Agent Selection
     ↓
-📱 Real-Time Monitoring (3D Dashboard)
+Real-Time Monitoring (3D Dashboard)
     ↓
-🔄 Auto-Rebalancing
+Auto-Rebalancing
     ↓
-💸 Instant Liquidity
+Instant Liquidity
 ```
 
 
-## 🔒 Security
+## Security
 
 - **Smart Contract Audits**: Comprehensive auditing by leading firms
 - **Multi-Signature Controls**: Critical functions require multiple approvals
@@ -205,22 +205,22 @@ AI automatically rebalances your portfolio and optimizes returns across multiple
 
 ---
 
-## 👥 Team
+## Team
 
 <div align="center">
 
 | Role | Name | Expertise |
 |------|------|-----------|
-| 🎯 **Team Leader** | Sreya Nair | Strategy, Smart Contracts, DAO Governance |
-| 💻 **Smart Contract Dev** | Abhinav Tiwari | Core Development, EVM Optimization |
-| 🤖 **AI/ML Engineer** | Dhananjay Rana | DeFi Integration, ML Algorithms |
-| 🎨 **Frontend Dev** | Vijay Mane | UX Design, Web3 Integration |
+|  **Team Leader** | Sreya Nair | Strategy, Smart Contracts, DAO Governance |
+|  **Smart Contract Dev** | Abhinav Tiwari | Core Development, EVM Optimization |
+|  **AI/ML Engineer** | Dhananjay Rana | DeFi Integration, ML Algorithms |
+|  **Frontend Dev** | Vijay Mane | UX Design, Web3 Integration |
 
 </div>
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
@@ -233,9 +233,9 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ---
 
-## ⭐ Show Your Support
+##  Show Your Support
 
-If this project helped you, please give it a ⭐️! It helps us reach more developers and traders.
+If this project helped you, please give it a ⭐! It helps us reach more developers and traders.
 
 ---
 
