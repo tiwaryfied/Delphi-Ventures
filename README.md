@@ -10,7 +10,7 @@
 
 *The world's first decentralized AI hedge fund protocol featuring multi-agent trading intelligence*
 
-[🚀 Live Demo](#) • [📖 Documentation](#)
+[ Live Demo](#) • [ Documentation](#)
 
 </div>
 
