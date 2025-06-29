@@ -9,6 +9,7 @@
 [![Hackathon](https://img.shields.io/badge/Status-Hackathon%20Build-orange)](https://github.com)
 
 *The world's first decentralized AI hedge fund protocol featuring multi-agent trading intelligence*
+![image](https://github.com/user-attachments/assets/2ce4fb86-09c1-4a0d-9f1a-d9e145807d01)
 
 [ Live Demo](#) • [ Documentation](#)
 
